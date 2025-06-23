@@ -1,0 +1,7 @@
+ A linguagem Python nasceu na década de 1980, e sua implementação foi iniciada em dezembro de 1989 na Holanda por Guido Van Rossum na CWI, que já trabalhou na GOOGLE e hoje trabalha na microsoft como engenheiro ilustre("Distinguished Engineer").
+
+Ele quando criou essa linguagem ele buscava algo mais simples e fácil de se compreender. Já que antes de ele criar sua própria linguagem, ele utilizava a linguagem "C" e por ser muito complexa ele decidiu criar a sua própria.
+
+O nome Python vem de um programa de comédia antigo dos EUA (Monty Python), pois na CWI eles tinham uma mania de colocar o nome dos seus projetos referentes a televisões, e como o programa de tv de comédia era um dos favoritos de Guido ele resolveu colocar o nome da sua linguagem de Python.
+
+Pois por conta do nome ter a semelhança com a cobra piton, eles não quiseram assumir esse nome por um tempo. Até que uma emissora que fez o livro sobre Python utilizou a imagem da cobra para representar a linguagem, e assim eles assumindo de uma vez o nome.

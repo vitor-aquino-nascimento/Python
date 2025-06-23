@@ -1,0 +1,32 @@
+Os tipos primitivos são classificados como. int(valores inteiros), float(valores reais), bool(valores booleanos: verdadeiro ou falso) e as Str(que seria um conjunto de carácteres).
+
+Int: {7, -4, 0, 9875}
+// tudo que for um número sem está entre parênteses ou ponto flutuante, é um int.
+
+Float: {4.5, 0.076, -15.223, 7.0}
+// tudo que for um número que não esteja entre parênteses e que tenha ponto flutuante é um valor float.
+
+Bool: {True and False}
+// tudo que for definido com verdadeiro ou falso é um bool.
+
+Str: {"Olá", "7.5", " "}
+// tudo que estiver entre parênteses é um str.
+
+Nos aprendemos um jeito inicial de colocar valores dentro de strings:
+
+print('A soma vale', s)
+
+Mas um método melhor de fazer isso é usando o ".format()" :
+
+print('A soma vale()'.format(s))
+
+EXTRA: 
+1) como fazer comentários em Python
+
+#
+
+2) podemos identificar se os valores coletados são ou não numero, str, bool, float e int. Com o comando "is".
+
+N = input('Digite algo: ')
+print(N.isalpha())
+// nesse caso se eu colocar "3", ele vai me responder false, mas se eu colocar "a" ele vai me dizer que é true.

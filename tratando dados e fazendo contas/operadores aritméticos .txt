@@ -1,0 +1,34 @@
+Nos temos os operadores aritméticos
+
++ adição
+- subtração
+* multiplicação
+/ divisão
+** potência
+// divisão inteira
+% resto da divisão
+
+Antes de cada operador temo que ter os operandos.
+
+5 + 5 = 10
+
++ = (operador)
+5 = (operandos)
+
+Agora vamos fazer potência
+
+5 ** 2 = 25
+
+// ele vai fazer o numero vezes ele msm
+
+Agora vamos fazer divisão inteira
+
+5 // 2 =2
+
+É quando nn usamos ,
+
+Agora vamos fazer o resto da divisão
+
+5 % 2 = 1
+
+É o resultado final da divisão sem usar ,

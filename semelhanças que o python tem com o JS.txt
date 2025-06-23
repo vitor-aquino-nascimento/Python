@@ -1,0 +1,51 @@
+Quando vamos programar em Python. Ele é bem similar com JavaScript, o jeito que coletamos dados de variáveis e até mesmo o meio de string, number e objetos.
+
+No JS, sabemos que para coletar uma variável fazemos assim:
+
+Let nome = 'vitor'
+	Console.log(` ${nome} `)
+
+No Python é assim:
+
+Nome = 'vitor'
+	print( nome )
+
+Percebeu a semelhança?
+
+E quando vamos coletar em si uma variável no JS é assim:
+
+Let nome = window.alert('qual o seu nome? ')
+	console.log(` ${nome} `)
+
+Já no Python:
+
+Nome = input('qual o seu nome?')
+	print( nome )
+
+Viu como é a mesma coisa, muda apenas algumas coisas.
+
+Porem quando vamos converter uma string para um number. No JS é assim:
+
+let num1 = document.querySelector('input#txtnum1')
+let num2 = document.querySelector('input#txtnum2')
+let n1 = Number(num.value)
+let n2 = Number(num.value)
+let soma = n1 + n2
+
+Já com o python é:
+
+num1 = input('insira um número: ')
+num2 = input('insira outro número: ')
+soma = int(num1) + int(num2)
+
+Outra semelhança é na hora de impor uma variável num texto
+
+JS
+
+let nome = ' vitor '
+Saída.innerHTML = `Prazer em te conhecer ${nome}`
+
+Python
+
+Nome = ' vitor '
+Print('Prazer em te conhecer {}!'.format(nome))
